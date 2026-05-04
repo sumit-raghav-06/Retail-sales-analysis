@@ -65,7 +65,7 @@ retail-sales-analysis/
 ├── data/
 ├── notebooks/
 ├── dashboard/
-├── images/
+├── visualizations/
 ├── sql/
 └── README.md
 ```
