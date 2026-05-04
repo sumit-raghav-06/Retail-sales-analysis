@@ -59,14 +59,7 @@ Below is the dashboard built using Power BI:
 
 📁 Project Structure
 
-retail-sales-analysis/
-│
-├── data/
-├── notebooks/
-├── dashboard/
-├── images/
-├── sql/
-└── README.md
+<code>text</code>   Line 63: `retail-sales-analysis/`   Line 64: `│`   Line 65: `├── data/`   Line 66: `├── notebooks/`   Line 67: `├── dashboard/`   Line 68: `├── images/`   Line 69: `├── sql/`   Line 70: `└── README.md`   Line 71: <code></code>
 
 ---
 
