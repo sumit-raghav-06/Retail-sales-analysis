@@ -1,38 +1,50 @@
 # Retail-sales-analysis
 End-to-end retail sales analysis using Python, SQL and Power BI with interactive dashboard and business insights
+# 🛒 Retail Sales Analysis
 
-📊 Retail Sales Analysis
-
-🔍 Overview
-
-This project performs an end-to-end analysis of retail sales data to uncover key insights related to revenue, profitability, and customer behavior. It includes data cleaning, exploratory data analysis (EDA), SQL queries, and an interactive Power BI dashboard.
+End-to-end retail sales analysis using Python, SQL, and Power BI with interactive dashboard and business insights.
 
 ---
 
-🛠️ Tools & Technologies
+## 📌 Overview
 
-- Python (Pandas, NumPy)
-- SQL
-- Power BI
-- Matplotlib & Seaborn
+This project analyzes retail sales data to uncover key insights related to revenue, profitability, and customer behavior. It includes data cleaning, exploratory data analysis (EDA), SQL-based analysis, and an interactive Power BI dashboard.
 
 ---
 
-📈 Key Business Questions
+## 🎯 Objective
 
-- What drives sales and profit?
-- How do discounts impact profitability?
-- Which categories and regions perform best?
-- Where are losses occurring?
+- Identify top-performing categories and regions  
+- Analyze the impact of discounts on profitability  
+- Understand seasonal sales trends  
+- Provide actionable business recommendations  
 
 ---
 
-💡 Key Insights
+## 🛠 Tools Used
 
-- High discounts (>20%) significantly reduce profit margins
-- Technology category contributes the most to overall profit
-- Certain regions generate strong sales but lower profitability
-- A small number of products contribute heavily to total losses
+- Python (Pandas, Seaborn, Matplotlib)  
+- SQL (SQLite)  
+- Power BI  
+
+---
+
+## 📈 Key Business Questions
+
+- What factors drive sales and profit?  
+- How do discounts affect profitability?  
+- Which categories and regions perform best?  
+- Where are losses occurring?  
+
+---
+
+## 📊 Key Insights
+
+- Technology is the highest revenue-generating category and should be prioritized for growth  
+- West region leads in overall sales, while other regions show improvement opportunities  
+- Sales peak in November due to seasonal and year-end demand  
+- California is the most profitable state, contributing significantly to overall profit  
+- Consumer segment drives the highest sales but receives higher discounts, impacting margins  
 
 ---
 
@@ -44,16 +56,6 @@ Below is the dashboard built using Power BI:
 
 📁 You can explore the full interactive dashboard using the ".pbix" file in the "dashboard/" folder.
 
----
-
-🚀 Features
-
-- KPI cards for Sales, Profit, Orders, and Profit Margin
-- Sales trend analysis over time
-- Category and region performance comparison
-- Discount vs Profit relationship analysis
-- Identification of loss-making products
-- Interactive filters and tooltips
 
 ---
 
@@ -69,6 +71,14 @@ retail-sales-analysis/
 ├── sql/
 └── README.md
 ```
+
+---
+## 🚀 How to Run
+
+1. Clone the repository  
+2. Install dependencies:
+   `bash
+   pip install -r requirements.txt
 
 ---
 
