@@ -1,9 +1,14 @@
-# Retail-sales-analysis
+# 🛒 Retail Sales Analysis
 End-to-end retail sales analysis using Python, SQL and Power BI with interactive dashboard and business insights
 ---
-# 🛒 Retail Sales Analysis
+This project analyzes retail sales performance to identify key drivers of revenue and profitability. The analysis focuses on discount impact, regional performance, and loss-making products to support data-driven decision-making
 
-End-to-end retail sales analysis using Python, SQL, and Power BI with interactive dashboard and business insights.
+## 🚀 Project Highlights
+
+- Built end-to-end sales analysis pipeline  
+- Identified key profit loss drivers using discount analysis  
+- Created interactive Power BI dashboard for decision-making  
+- Combined Python, SQL, and visualization tools
 
 ---
 
@@ -26,7 +31,7 @@ This project simulates real-world retail analytics workflows used for business d
 ## 🛠 Tools Used
 
 - Python (Pandas, Seaborn, Matplotlib)  
-- SQL (SQLite)  
+- SQL 
 - Power BI  
 
 ---
@@ -47,7 +52,9 @@ This project simulates real-world retail analytics workflows used for business d
 - Sales peak in November due to seasonal and year-end demand  
 - California is the most profitable state, contributing significantly to overall profit  
 - Consumer segment drives the highest sales but receives higher discounts, impacting margins
-- Business Impact: Prioritize inventory and marketing for Technology to maximize revenue growth
+---
+## 💼 Business Impact: 
+- Prioritize inventory and marketing for Technology to maximize revenue growth
 
 ---
 
@@ -76,14 +83,15 @@ retail-sales-analysis/
 ```
 
 ---
-## 🚀 How to Run
+## 🚀 How to Use
 
 1. Clone the repository  
 2. Install dependencies:
-   `bash
+   ```bash
    pip install -r requirements.txt
 3. Open notebooks/eda.ipynb  
 4. Run all cells
+5. Open `.pbix` file in Power BI to explore dashboard
 
 ---
 
