@@ -68,9 +68,10 @@ retail-sales-analysis/
 ├── images/
 ├── sql/
 └── README.md
+```
 
 ---
 
-🎯 Conclusion
+### 🎯 Conclusion
 
 This project demonstrates end-to-end data analysis, from data cleaning and exploration to building an interactive dashboard for business decision-making.
