@@ -1,5 +1,6 @@
 # Retail-sales-analysis
 End-to-end retail sales analysis using Python, SQL and Power BI with interactive dashboard and business insights
+---
 # 🛒 Retail Sales Analysis
 
 End-to-end retail sales analysis using Python, SQL, and Power BI with interactive dashboard and business insights.
@@ -9,6 +10,7 @@ End-to-end retail sales analysis using Python, SQL, and Power BI with interactiv
 ## 📌 Overview
 
 This project analyzes retail sales data to uncover key insights related to revenue, profitability, and customer behavior. It includes data cleaning, exploratory data analysis (EDA), SQL-based analysis, and an interactive Power BI dashboard.
+This project simulates real-world retail analytics workflows used for business decision-making
 
 ---
 
@@ -44,7 +46,8 @@ This project analyzes retail sales data to uncover key insights related to reven
 - West region leads in overall sales, while other regions show improvement opportunities  
 - Sales peak in November due to seasonal and year-end demand  
 - California is the most profitable state, contributing significantly to overall profit  
-- Consumer segment drives the highest sales but receives higher discounts, impacting margins  
+- Consumer segment drives the highest sales but receives higher discounts, impacting margins
+- Business Impact: Prioritize inventory and marketing for Technology to maximize revenue growth
 
 ---
 
