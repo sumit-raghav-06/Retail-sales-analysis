@@ -82,7 +82,7 @@ retail-sales-analysis/
 ├── dashboard/
 ├── visualizations/
 ├── sql/
-├── reports
+├── reports/
 ├── requirment.txt
 └── README.md
 ```
