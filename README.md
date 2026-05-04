@@ -1,7 +1,13 @@
 # 🛒 Retail Sales Analysis
 End-to-end retail sales analysis using Python, SQL and Power BI with interactive dashboard and business insights
 ---
+
+## 📌 Overview
+
 This project analyzes retail sales performance to identify key drivers of revenue and profitability. The analysis focuses on discount impact, regional performance, and loss-making products to support data-driven decision-making
+This project simulates real-world retail analytics workflows used for business decision-making
+
+---
 
 ## 🚀 Project Highlights
 
@@ -9,13 +15,6 @@ This project analyzes retail sales performance to identify key drivers of revenu
 - Identified key profit loss drivers using discount analysis  
 - Created interactive Power BI dashboard for decision-making  
 - Combined Python, SQL, and visualization tools
-
----
-
-## 📌 Overview
-
-This project analyzes retail sales performance to identify key drivers of revenue and profitability. The analysis focuses on discount impact, regional performance, and loss-making products to support data-driven decision-making
-This project simulates real-world retail analytics workflows used for business decision-making
 
 ---
 
