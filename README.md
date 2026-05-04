@@ -40,7 +40,7 @@ This project performs an end-to-end analysis of retail sales data to uncover key
 
 Below is the dashboard built using Power BI:
 
-"Dashboard" (dashboard/dashboard_overview.png)
+![Dashboard](dashboard/dashboard_overview.png)
 
 📁 You can explore the full interactive dashboard using the ".pbix" file in the "dashboard/" folder.
 
