@@ -79,6 +79,8 @@ retail-sales-analysis/
 2. Install dependencies:
    `bash
    pip install -r requirements.txt
+3. Open notebooks/eda.ipynb  
+4. Run all cells
 
 ---
 
