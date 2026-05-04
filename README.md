@@ -14,7 +14,7 @@ This project analyzes retail sales performance to identify key drivers of revenu
 
 ## 📌 Overview
 
-This project analyzes retail sales data to uncover key insights related to revenue, profitability, and customer behavior. It includes data cleaning, exploratory data analysis (EDA), SQL-based analysis, and an interactive Power BI dashboard.
+This project analyzes retail sales performance to identify key drivers of revenue and profitability. The analysis focuses on discount impact, regional performance, and loss-making products to support data-driven decision-making
 This project simulates real-world retail analytics workflows used for business decision-making
 
 ---
