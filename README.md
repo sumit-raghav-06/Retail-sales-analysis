@@ -48,9 +48,9 @@ This project simulates a real-world analytics workflow—from data cleaning and 
 ## 📊 Key Insights
 
 - Technology is the highest revenue-generating category and should be prioritized for growth  
-- West region leads in overall sales, while other regions show improvement opportunities  
-- Sales peak in November due to seasonal and year-end demand  
-- California is the most profitable state, contributing significantly to overall profit  
+- West region drives 31% of total revenue ($725,000)
+- November sales are 40% above monthly  
+- California is the most profitable state with $76,000 profit  
 - Consumer segment drives the highest sales but receives higher discounts, impacting margins
 ---
 ## 💼 Business Impact: 
