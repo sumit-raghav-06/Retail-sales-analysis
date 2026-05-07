@@ -54,8 +54,8 @@ This project simulates a real-world analytics workflow—from data cleaning and 
 - Consumer segment drives the highest sales but receives higher discounts, impacting margins
 ---
 ## 💼 Business Impact: 
-- Prioritize inventory and marketing for Technology to maximize revenue growth
-- Prioritize Technology category for revenue growth
+- Prioritize Technology category for inventory, marketing, 
+  and revenue growth — it outperforms all other categories
 - Optimize discount strategies to improve margins
 - Focus on underperforming regions for expansion opportunities
 
