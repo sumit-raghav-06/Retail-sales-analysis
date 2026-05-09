@@ -63,7 +63,7 @@ This project simulates a real-world analytics workflow—from data cleaning and 
 
 # 📊 Sample Visualization
 
-### Churn Distribution
+### Discount vs Profit
 
 ![Churn Distribution](visualizations/05_discount_vs_profit.png)
 
