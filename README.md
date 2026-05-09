@@ -88,16 +88,23 @@ retail-sales-analysis/
 ```
 
 ---
-## 🚀 How to Use
+# 🚀 How to Run
 
-1. Clone the repository  
+1. Clone the repository
+
 2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-3. Open notebooks/eda.ipynb  
-4. Run all cells
-5. Open `.pbix` file in Power BI to explore dashboard
 
+```bash
+pip install -r requirements.txt
+```
+
+3. Launch Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+4. Open and run the notebook from the `notebooks/` folder.
 ---
 
 ### 🎯 Conclusion
