@@ -68,6 +68,19 @@ This project simulates a real-world analytics workflow—from data cleaning and 
 ![Churn Distribution](visualizations/05_discount_vs_profit.png)
 
 
+### Profit VS Sales Volume By category
+
+![Churn Distribution](visualizations/04_profit_vs_sales_volume_by_category.png)
+
+
+### Monthly Sales Trend
+
+![Churn Distribution](visualizations/03_monthly_sales_trend.png)
+
+### Profit Margin By Category
+
+![Churn Distribution](visualizations/06_Profit_margin_by_category.png)
+
 ---
 
 📊 Dashboard
